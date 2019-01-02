@@ -1,0 +1,25 @@
+{
+	"name": "University of California, Berkeley",
+	"public_key": "-----BEGIN PUBLIC KEY-----
+MIGeMA0GCSqGSIb3DQEBAQUAA4GMADCBiAKBgG2/mpyPvktFXyjW1005y6JLrLEK
+JpysMwcxQzyf5G2pTVjl8i2nhpTnuWZIyF8ekM/lB7H6Se6TjvdSxw9jevYdU9cP
+HHnjQx+ax2ekD2jC56NyBh/MGeq/yXqqygU50ptC28157ZqAutBq9/zHxX4QTNs0
+tb4+F92tudqFby6dAgMBAAE=
+-----END PUBLIC KEY-----",
+	"private_key": "-----BEGIN RSA PRIVATE KEY-----
+MIICWwIBAAKBgG2/mpyPvktFXyjW1005y6JLrLEKJpysMwcxQzyf5G2pTVjl8i2n
+hpTnuWZIyF8ekM/lB7H6Se6TjvdSxw9jevYdU9cPHHnjQx+ax2ekD2jC56NyBh/M
+Geq/yXqqygU50ptC28157ZqAutBq9/zHxX4QTNs0tb4+F92tudqFby6dAgMBAAEC
+gYBhgBqswqtNldjfoFZwfksh6VcHhbwd7oH6/tH8FxTKM+HKe6b21mEjAubcLwcM
+Mkx21cNLY8+wy5j0sq60Ri3jKp8E54xVeAa/+KL2H1JoPwEPMGfNg2ms9v2GM85e
+D/AHm/DtPcsiqz0E/GX0WJUzUIaeSouBcDRImyUdS4y9wQJBANobY3ZghbYMSt++
+aSpMkBfXx2n+ABi8xIYKe59vaZNm9PVyHcoCUdcLe8cKoS834Q4fJeNdO+VlfpK/
+dzv/orECQQCA0NGpQJO6s19yQhWUfMrq1mQt0HEm7ArIGzqbh5+5guphKUsFi/vR
+GHawIPlXN6i0l2NmDBQA4iK/VuD7b02tAkANp59PfvWAEz7wyRP+cPKoe3rhmORa
+qB7JoYhhz/DVKKH3Z+CTkBedlft216SFt0LgxnRxypmAYB1PhKsrV3LRAkB/aAo2
+0PxMiOU6aUpW1ycMJohnF+cSjBwN14CcHARKw8V13BWrosyp/vxFMBftv8tI8wMJ
+B6ExTnj3rsJPbcLxAkEAyKH1BpDmMVVRu4XnjOrvA5DwFQStzfXNnw2HwpRhw+9L
+bqj+DFyFAJHhV/IFmr8poVM0NvvQmekxyYYae70RaQ==
+-----END RSA PRIVATE KEY-----",
+	"port": 5000
+}
