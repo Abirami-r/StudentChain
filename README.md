@@ -1,4 +1,4 @@
-# UniversityBlockchain
+# StudentChain
 Identity verification for students of universities built on top of the blockchain.
 
 How to use StudentChain prototype:
